@@ -4,7 +4,10 @@
 https://space.bilibili.com/377693983/channel/collectiondetail?sid=3475444
 
 ### 内容编排
-* Part 1 环境配置
-* Part 2 Python 语法
-* Part 3 Pytorch 介绍
-* Part 4 GLM4拆解
+* 第一次 Python入门
+* 第二次 Python语法
+* 第三次 Pytorch的用法
+* 第四次 GLM4开源模型分解
+* 第五次 Ollama生态概览
+* 第六次 LangChain考古
+* 第七次 基于LLM的智能体
